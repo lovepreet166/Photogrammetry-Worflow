@@ -68,6 +68,28 @@ Workflow inside software:
 | Video render | Portfolio & exhibitions |
 
 ---
+📸 Dataset — HPMC Canteen (IIIT Una)
+
+This project uses drone-captured images and videos of the HPMC Canteen at IIIT Una for photogrammetry reconstruction.
+
+🔗 Dataset (Images + Videos):
+https://drive.google.com/drive/folders/1HdC0ssU15C1jIlrtbzous8KFkgx94CHW
+
+If you'd like it placed in a more visible way near the top, here is an alternate version (can replace the “Features” section or go below it):
+
+🔗 Project Dataset & Media
+
+The complete raw dataset captured for this project (aerial + ground images & videos of the HPMC Canteen) is publicly available here:
+📁 Google Drive — HPMC Canteen Dataset:
+https://drive.google.com/drive/folders/1HdC0ssU15C1jIlrtbzous8KFkgx94CHW
+
+You can use this dataset to:
+
+Recreate the photogrammetry output
+
+Experiment with RealityCapture or Meshroom
+
+Evaluate mesh reconstruction performance
 
 ## ⚙ Performance Optimization Checklist
 - Enable **Nanite** for static environment models
